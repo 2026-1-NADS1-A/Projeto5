@@ -14,6 +14,7 @@ Desenvolver uma aplicação integrada a banco de dados capaz de gerenciar escola
 - João Pedro Teixeira dos Santos
 - Raphael Carmo Mendes
 - Kaue Yudi Maeda Rodrigues
+- Guilherme koide
 
 ## Status
 
