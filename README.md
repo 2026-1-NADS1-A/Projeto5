@@ -19,3 +19,6 @@ Desenvolver uma aplicação integrada a banco de dados capaz de gerenciar escola
 ## Status
 
 Em desenvolvimento
+
+## Licença 
+Projeto Interdisciplinar – Aplicativo Desktop para Gestão de Assinaturas de Jogos Educacionais © 2026 by Daniel Bandini Grande João Pedro Teixeira dos Santos Raphael Carmo Mendes Kaue Yudi Maeda Rodrigues Guilherme koide is licensed under CC BY 4.0
