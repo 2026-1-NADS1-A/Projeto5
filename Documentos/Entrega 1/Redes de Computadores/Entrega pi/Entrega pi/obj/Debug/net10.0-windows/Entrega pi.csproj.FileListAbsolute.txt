@@ -1,0 +1,32 @@
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\bin\Debug\net10.0-windows\Entrega pi.exe
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\bin\Debug\net10.0-windows\Entrega pi.deps.json
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\bin\Debug\net10.0-windows\Entrega pi.runtimeconfig.json
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\bin\Debug\net10.0-windows\Entrega pi.dll
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\bin\Debug\net10.0-windows\Entrega pi.pdb
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega_pi.Form1.resources
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.csproj.GenerateResource.cache
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.AssemblyInfoInputs.cache
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.AssemblyInfo.cs
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.csproj.CoreCompileInputs.cache
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.dll
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\refint\Entrega pi.dll
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.pdb
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.genruntimeconfig.cache
+C:\Users\26028502\Desktop\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\ref\Entrega pi.dll
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\bin\Debug\net10.0-windows\Entrega pi.exe
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\bin\Debug\net10.0-windows\Entrega pi.deps.json
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\bin\Debug\net10.0-windows\Entrega pi.runtimeconfig.json
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\bin\Debug\net10.0-windows\Entrega pi.dll
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\bin\Debug\net10.0-windows\Entrega pi.pdb
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega_pi.Form1.resources
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.csproj.GenerateResource.cache
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.AssemblyInfoInputs.cache
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.AssemblyInfo.cs
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.csproj.CoreCompileInputs.cache
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.dll
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\refint\Entrega pi.dll
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.pdb
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\Entrega pi.genruntimeconfig.cache
+C:\Users\anow0\Downloads\Entrega pi\Entrega pi\Entrega pi\obj\Debug\net10.0-windows\ref\Entrega pi.dll
