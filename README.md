@@ -1,4 +1,5 @@
 # Sistema Desktop para Gestão de Assinaturas de Jogos Educacionais
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/02d9db87-909e-49a2-860b-1f64ca50230d" />
 
 Projeto desenvolvido para o Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas.
 
