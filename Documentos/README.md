@@ -5,31 +5,56 @@
 
 ### Algoritmos e Lógica de Programação
 
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>Daniel Bandini Grande</b>
 <br><br>
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>João Pedro Teixeira dos Santos</b>
 <br><br>
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>Raphael Carmo Mendes</b>
+<br><br>
+<b>Kaue Yudi Maeda Rodrigues</b>
 <br><br>
 
 ### Fundamentos de Banco de Dados
 
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>Daniel Bandini Grande</b>
 <br><br>
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>João Pedro Teixeira dos Santos</b>
 <br><br>
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>Raphael Carmo Mendes</b>
+<br><br>
+<b>Kaue Yudi Maeda Rodrigues</b>
 <br><br>
 
 ### Matemática Discreta
 
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>Daniel Bandini Grande</b>
 <br><br>
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>João Pedro Teixeira dos Santos</b>
 <br><br>
-<b>ALUNO 1- [Trabalho/Documento](https://github.com/fecaphub/Template_PI/blob/main/documentos/Entrega%201/Disciplina%201/Venha%20para%20a%20FECAP!.txt)</b>
+<b>Raphael Carmo Mendes</b>
+<br><br>
+<b>Kaue Yudi Maeda Rodrigues</b>
 <br><br>
 
 ## Modelagem de Software e Arquitetura de Sistemas
 
+<b>Daniel Bandini Grande</b>
+<br><br>
+<b>João Pedro Teixeira dos Santos</b>
+<br><br>
+<b>Raphael Carmo Mendes</b>
+<br><br>
+<b>Kaue Yudi Maeda Rodrigues</b>
+<br><br>
+
 ## Redes de Computadores
+
+<b>Daniel Bandini Grande</b>
+<br><br>
+<b>João Pedro Teixeira dos Santos</b>
+<br><br>
+<b>Raphael Carmo Mendes</b>
+<br><br>
+<b>Kaue Yudi Maeda Rodrigues</b>
+<br><br>
+
