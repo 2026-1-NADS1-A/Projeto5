@@ -10,7 +10,7 @@
 
 ## Integrantes: Daniel Bandini Grande, João Pedro Teixeira dos Santos, Raphael Carmo Mendes, Kaue Yudi Maeda Rodrigues, Guilherme Koide Rangel
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: Renata Muniz do Nascimento, Eduardo Savino Gomes, Ronaldo Araujo Pinto, Aimar Martins Lopes e Lucy Mari Tabuti 
 
 ## Descrição
 <img width="800" height="400" alt="messier_logo" src="https://github.com/user-attachments/assets/7ee1e891-317b-4e71-8dfb-e9cc3249598b" />
