@@ -1,1 +1,61 @@
-pique uma notas essa fita aq 
+-- SISTEMA - Gestão de Assinaturas de Jogos 1
+
+-- Tabela: PACOTE
+CREATE TABLE pacote (
+    id_pacote       INTEGER PRIMARY KEY AUTOINCREMENT,
+    nome            VARCHAR(100) NOT NULL,
+    limite_mensal   INTEGER NOT NULL,
+    preco_mensal    REAL    NOT NULL
+);
+
+-- Tabela: JOGO
+CREATE TABLE jogo (
+    id_jogo         INTEGER PRIMARY KEY AUTOINCREMENT,
+    nome            VARCHAR(100) NOT NULL,
+    descricao       VARCHAR(150),
+    disciplina      VARCHAR(150),
+    faixa_etaria    VARCHAR(150),
+    ativo           INTEGER NOT NULL DEFAULT 1  
+);
+
+-- Tabela: PACOTE_JOGO
+CREATE TABLE pacote_jogo (
+    id_pacote   INTEGER NOT NULL,
+    id_jogo     INTEGER NOT NULL,
+    PRIMARY KEY (id_pacote, id_jogo),
+    FOREIGN KEY (id_pacote) REFERENCES pacote(id_pacote),
+    FOREIGN KEY (id_jogo)   REFERENCES jogo(id_jogo)
+);
+
+-- Tabela: ESCOLA
+CREATE TABLE escola (
+    id_escola   INTEGER PRIMARY KEY AUTOINCREMENT,
+    nome        VARCHAR(100) NOT NULL,
+    cnpj        VARCHAR(14),
+    email       VARCHAR(150),
+    telefone    VARCHAR(20),
+    endereco    VARCHAR(200),
+    id_pacote   INTEGER,  -- pacote ativo (apenas um)
+    FOREIGN KEY (id_pacote) REFERENCES pacote(id_pacote)
+);
+
+-- Tabela: IP_AUTORIZADO
+CREATE TABLE ip_autorizado (
+    id_ip       INTEGER PRIMARY KEY AUTOINCREMENT,
+    id_escola   INTEGER NOT NULL,
+    ip          TEXT    NOT NULL,
+    FOREIGN KEY (id_escola) REFERENCES escola(id_escola)
+);
+
+-- Tabela: LOG_ACESSO
+CREATE TABLE log_acesso (
+    id_log      INTEGER PRIMARY KEY AUTOINCREMENT,
+    id_escola   INTEGER NOT NULL,
+    id_jogo     INTEGER NOT NULL,
+    ip_origem   TEXT    NOT NULL,
+    data_hora   TEXT    NOT NULL,  
+    resultado   TEXT    NOT NULL,
+    CHECK (resultado IN ('PERMITIDO', 'BLOQUEADO')),
+    FOREIGN KEY (id_escola) REFERENCES escola(id_escola),
+    FOREIGN KEY (id_jogo)   REFERENCES jogo(id_jogo)
+);
