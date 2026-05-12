@@ -24,16 +24,16 @@
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
+|  &emsp;|-->antigos<br>
+|  &emsp;|Documentação.docx<br>
 |-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
+|  &emsp;|-->windows<br>
+|  &emsp;|-->android<br>
+|  &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+|  &emsp;|-->Backend<br>
+|  &emsp;|-->Frontend<br>
 |readme.md<br>
 
 <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
